@@ -19,9 +19,17 @@
 
 ### 🔥 Focus Areas
 - Embedded firmware & RTOS
-- IoT local control (Wi-Fi/BLE/Zigbee/Z-Wave/KNX)
+- IoT From Hardware to Cloud
 - Secure software & firmware design (AppSec mindset)
 
 ---
+
+### 📫 Connect with me
+<p>
+  <a href="https://linkedin.com/in/0xamrtarek" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/0xamrtarek" target="_blank">Twitter</a> •
+  <a href="https://facebook.com/0xamrtarek" target="_blank">Instagram</a> •
+  <a href="https://youtube.com/@0xamrtarek" target="_blank">YouTube</a>
+</p>
 
 ⭐ Open to collaborations on IoT, Embedded, and AppSec
