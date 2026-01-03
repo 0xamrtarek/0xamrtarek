@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amrtarek/amrtarek/blob/main/banner.png" alt="Amr Tarek Banner"/>
+  <img src="https://github.com/amrtarek/amrtarek/blob/main/0xamrtarek-bg.jpg" alt="Amr Tarek Banner"/>
 </p>
 
 # 👋 Hi, I'm **Amr Tarek (0xAmrTarek)**
