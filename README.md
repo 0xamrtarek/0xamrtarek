@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/amrtarek/amrtarek/blob/main/banner.png" alt="Amr Tarek Banner"/>
+</p>
 
-<!--
-**0xamrtarek/0xamrtarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Amr Tarek (0xAmrTarek)**
 
-Here are some ideas to get you started:
+🚀 Software Engineer | Embedded IoT | AppSec Focus  
+🔐 Building secure, real-time, offline-first systems  
+🌍 10+ years bridging firmware, IoT, and mobile  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio & Blog → **0xamrtarek.site**
+
+---
+
+### ⚙️ Core Skills
+**C/C++ • FreeRTOS • Embedded Linux • Flutter (Dart) • JavaScript • IoT**
+
+---
+
+### 🔥 Focus Areas
+- Embedded firmware & RTOS
+- IoT local control (Wi-Fi/BLE/Zigbee/Z-Wave/KNX)
+- Secure software & firmware design (AppSec mindset)
+
+---
+
+⭐ Open to collaborations on IoT, Embedded, and AppSec
