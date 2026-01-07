@@ -8,7 +8,7 @@
 🔐 Building secure, real-time, offline-first systems  
 🌍 10+ years bridging firmware, IoT, and mobile  
 
-🌐 Portfolio & Blog → [**0xamrtarek.site**](https://0xamrtarek.site)
+🌐 Portfolio & Blog → [**0xamrtarek.com**](https://0xamrtarek.com)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 📫 Connect with me
 <p>
-  <a href="https://0xamrtarek.site" target="_blank">Website</a> •
+  <a href="https://0xamrtarek.com" target="_blank">Website</a> •
   <a href="https://linkedin.com/in/0xamrtarek" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/0xamrtarek" target="_blank">Twitter</a> •
   <a href="https://facebook.com/0xamrtarek" target="_blank">Instagram</a> •
